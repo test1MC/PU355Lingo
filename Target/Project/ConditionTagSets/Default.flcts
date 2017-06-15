@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="Include"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="Exclude"
+    BackgroundColor="Red" />
+</CatapultConditionTagSet>

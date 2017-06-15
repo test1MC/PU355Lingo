@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Include.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Exclude.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/IncludeExclude.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Include-TOC.htm"
+    conditions="Default.Include" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Exclude-TOC.htm"
+    conditions="Default.Exclude" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/IncludeExclude-TOC.htm"
+    conditions="Default.Exclude,Default.Include" />
+</CatapultToc>
